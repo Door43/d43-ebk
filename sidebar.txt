@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ebk:home|Door43 (ebk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ebk|d43-ebk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ebk/archive/master.zip|d43-ebk.zip]]
+
+**Recent Changes**
+{{changes>ns = ebk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ebk|Ethnologue data]]
+
